@@ -9,4 +9,4 @@ print ("Thank you!")
 # int(a) * int(b)
 
 
-print (f"{a} + {b} = {a+b} \n{a} - {b}=  {a-b}\n{a} / {b} = {a/b}\n{a} * {b} = {a*b}")
+print (f"{a} + {b} = {a+b} \n{a} - {b} = {a-b}\n{a} / {b} = {a/b}\n{a} * {b} = {a*b}")
